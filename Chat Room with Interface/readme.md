@@ -11,7 +11,7 @@ Dieses Projekt ist eine Chat-Anwendung, die mit LabVIEW entwickelt wurde. Sie er
 - **Chat Window Interface.lvlib**: Schnittstelle für die Chat-Kommunikation
 - **Controls**: Enthält benutzerdefinierte Steuerelemente
 - **Documentation**: Enthält die Dokumentations-VI
-
+![projektScreenshot](https://github.com/bIackdog/LabView-projects/blob/6ad1c1bb997ad3576b7c704e2d727f6bafc81376/Chat%20Room%20with%20Interface/Screenshot%202026-07-05%20at%2022.11.19.png)
 ## Systemvoraussetzungen
 - LabVIEW 2020 oder neuer
 - Windows-Betriebssystem
