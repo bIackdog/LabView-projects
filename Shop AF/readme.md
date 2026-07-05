@@ -15,8 +15,10 @@ Der Kunde fragt nach dem Preis eines Teddybären. Der Verkäufer antwortet mit
 
 - **Launcher.vi** – Startet das Programm.
 - **Customer A.lvlib** – Enthält den Kunden und seine Nachrichten.
-- **ShopAssistant.lvlib** – Enthält den Verkäufer und seine Nachrichten.
+- **ShopAssistant.lvlib** – Enthält den Verkäufer und seine Nachrichten
 
+  [projektstruktur](https://github.com/bIackdog/LabView-projects/blob/51aa547b7b12f6113df306d996a869079f820d10/Shop%20AF/Screenshot%202026-07-05%20at%2021.51.10.png)
+  [projektablauf](https://github.com/bIackdog/LabView-projects/blob/51aa547b7b12f6113df306d996a869079f820d10/Shop%20AF/Screenshot%202026-07-05%20at%2021.51.53.png)
 ## Ablauf
 
 1. `Launcher.vi` starten.
